@@ -14,7 +14,7 @@ Building the static executable for ReproZip depends on and may include the softw
 
 | Package source code  | Included version     | License |
 |------------------|-----------------|---------|
-| [altgraph]() | [0.17]() |
+| [altgraph](https://github.com/ronaldoussoren/altgraph) | [0.17](https://pypi.org/project/altgraph/0.17/) | MIT License (MIT)
 | [certifi](https://github.com/certifi/python-certifi) | [2020.6.20](https://pypi.org/project/certifi/2020.6.20/) | Mozilla Public License 2.0 (MPL 2.0) 
 | [chardet](https://github.com/chardet/chardet) | [3.0.4](https://pypi.org/project/chardet/3.0.4/) | GNU Library or Lesser General Public License (LGPL) 
 | [distro](https://github.com/nir0s/distro) | [1.5.0](https://pypi.org/project/distro/1.5.0/) | Apache Software License (Apache License, Version 2.0)
